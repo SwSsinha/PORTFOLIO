@@ -160,4 +160,8 @@
       transform: translateY(0);
     }
   }
+  .Certificates{
+    text-decoration: none;
+    color: beige;
+  }
   
