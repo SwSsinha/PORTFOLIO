@@ -163,5 +163,9 @@
   .Certificates{
     text-decoration: none;
     color: beige;
+    cursor: pointer;
+  }
+  .Certificates:hover{
+    color: azure;
   }
   
